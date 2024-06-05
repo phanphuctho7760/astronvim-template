@@ -31,6 +31,8 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.color.transparent-nvim" },
   { import = "astrocommunity.color.twilight-nvim" },
+  { import = "astrocommunity.color.headlines-nvim" },
+  { import = "astrocommunity.color.huez-nvim" },
   -- { import = "astrocommunity.recipes.vscode-icons" },
 
   { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
