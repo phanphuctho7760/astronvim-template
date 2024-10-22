@@ -40,9 +40,7 @@ return {
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
 
-
   { import = "astrocommunity.project.project-nvim" },
-  { import = "astrocommunity.project.nvim-spectre" },
   -- { import = "astrocommunity.project.project-nvim" },
   { import = "astrocommunity.project.projectmgr-nvim" },
   { import = "astrocommunity.terminal-integration.flatten-nvim" },
@@ -51,6 +49,8 @@ return {
   { import = "astrocommunity.editing-support.text-case-nvim" },
   { import = "astrocommunity.editing-support.vim-move" },
   { import = "astrocommunity.editing-support.multicursors-nvim" },
+  { import = "astrocommunity.quickfix.nvim-bqf" },
+  { import = "astrocommunity.search.nvim-spectre" },
 
   { import = "astrocommunity.motion.vim-matchup" },
   { import = "astrocommunity.scrolling.mini-animate" },
@@ -69,7 +69,6 @@ return {
   { import = "astrocommunity.code-runner.compiler-nvim" },
 
   { import = "astrocommunity.debugging.telescope-dap-nvim" },
-  { import = "astrocommunity.debugging.nvim-bqf" },
   { import = "astrocommunity.debugging.nvim-dap-repl-highlights" },
   { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
 }
